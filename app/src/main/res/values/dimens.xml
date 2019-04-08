@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="image_size_small">100dp</dimen>
+    <dimen name="thumbnail_size">150dp</dimen>
+    <dimen name="extra_small_dimen">4dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="first_pane_dimen">400dp</dimen>
+</resources>
